@@ -1,3 +1,8 @@
+Educational Friday: 21.04.2023
+-----------------------------------------------------------------------------------------------
+Developed by Wojciech Michalski
+-----------------------------------------------------------------------------------------------
+
 The repository contains Jupyter notebooks:
 - wmi_flask_ngrok.ipynb
 - wmi_keras_classification_case.ipynb

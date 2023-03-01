@@ -7,3 +7,6 @@ The repository contains Jupyter notebooks:
 - wmi_keras_linear_regression_one_neuron_case.ipynb
 - wmi_openAI_client.ipynb
 - wmi_pytorch_regression_case.ipynb
+
+and diagrams presenting the architecture of built neural networks and solutions:
+- "PDF - Neural Network - Iris classification case software architecture.PDF"

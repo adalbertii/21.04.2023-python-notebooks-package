@@ -4,14 +4,23 @@ Developed by Wojciech Michalski
 -----------------------------------------------------------------------------------------------
 
 The repository contains Jupyter notebooks:
-- wmi_flask_ngrok.ipynb
-- wmi_keras_classification_case.ipynb
-- wmi_keras_classification_iris_case.ipynb
-- wmi_keras_classification_iris_rest_api.ipynb
-- wmi_keras_digit_recognition_case.ipynb
-- wmi_keras_linear_regression_one_neuron_case.ipynb
-- wmi_openAI_client.ipynb
-- wmi_pytorch_regression_case.ipynb
+
+1. wmi_flask_ngrok.ipynb : notebook presenting building website using the Flask framework. Public access to the service is provided through the Ngrok platform
+
+2. wmi_keras_classification_case.ipynb : notebook discussing the construction and training of a classification model intended for inferring whether a patient will develop diabetes
+
+3. wmi_keras_classification_iris_case.ipynb : notebook presenting proces budowy i ternowania modelu klasyfikacyjnego oraz budowy paczki wdrożeniowej która będzie wykorzystana do budowy usługi REST owej (notebook numer 1)
+
+4. wmi_keras_classification_iris_rest_api.ipynb - describing discussing the construction of a REST service using a trained classification model
+
+5. wmi_keras_digit_recognition_case.ipynb - notebook presenting the process of building a neural network dedicated to recognizing handwritten numbers
+
+6. wmi_keras_linear_regression_one_neuron_case.ipynb - he simplest case of a neural network built from a single neuran. The model can perform linear regression of the data
+
+7. wmi_openAI_client.ipynb - an example of an implementation of the client layer of the REST service hosted by the Open AI service
+
+8. wmi_pytorch_regression_case.ipynb - case of a neural network performing regressive estimation of housing prices
+
 
 and diagrams presenting the architecture of built neural networks and solutions:
 - "PDF - Neural Network - Iris classification case software architecture.PDF"

@@ -20,6 +20,9 @@ The repository contains Jupyter notebooks:
 
 8. wmi_pytorch_regression_case.ipynb - case of a neural network performing regressive estimation of housing prices
 
+9. wmi_keras_convolutional_case.ipynb - an example of an implementation of convolutional network. The model can perform binary classification.
+
+10. wmi_keras_classification_diabets_case_case.ipynb - diabetes risk assessment network. By performing binary classification.
 
 and diagrams presenting the architecture of built neural networks and solutions:
 - "PDF - Neural Network - Iris classification case software architecture.PDF"

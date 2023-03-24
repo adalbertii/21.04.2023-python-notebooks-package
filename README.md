@@ -26,3 +26,4 @@ The repository contains Jupyter notebooks:
 
 and diagrams presenting the architecture of built neural networks and solutions:
 - "PDF - Neural Network - Iris classification case software architecture.PDF"
+- "PDF - Artificial Neural Network - referential architecture.PDF"

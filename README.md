@@ -25,5 +25,6 @@ The repository contains Jupyter notebooks:
 10. wmi_keras_classification_diabets_case_case.ipynb - diabetes risk assessment network. By performing binary classification.
 
 and diagrams presenting the architecture of built neural networks and solutions:
+- "AI 21.04.2023.PPTX - presentation
 - "PDF - Neural Network - Iris classification case software architecture.PDF"
 - "PDF - Artificial Neural Network - referential architecture.PDF"

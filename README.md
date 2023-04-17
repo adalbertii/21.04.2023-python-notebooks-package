@@ -8,7 +8,7 @@ The repository contains Jupyter notebooks:
 
 2. wmi_keras_classification_case.ipynb : notebook discussing the construction and training of a classification model intended for inferring whether a patient will develop diabetes
 
-3. wmi_keras_classification_iris_case.ipynb : notebook presenting proces budowy i ternowania modelu klasyfikacyjnego oraz budowy paczki wdrożeniowej która będzie wykorzystana do budowy usługi REST owej (notebook numer 1)
+3. wmi_keras_classification_iris_case.ipynb : notebook presenting the process of building and training the classification model and the investment of the implementation package, which will be used to build the REST service (issue number 1)
 
 4. wmi_keras_classification_iris_rest_api.ipynb - describing discussing the construction of a REST service using a trained classification model
 
